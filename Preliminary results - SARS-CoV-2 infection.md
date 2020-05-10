@@ -2,10 +2,10 @@
 ## RNASEQ dataset
 SRA accession - SRR11454612
 #### Metadata
--RNA-Seq of Homo sapiens: hCov-19 infected patients Sputum
--Submitted by: Hubei Provincial Center for Disease Control and Prevention
--Sample: BetaCoV/Wuhan/HBCDC-HB-04/2019
--Library: Name: HBCDC-HB-04/2019
+- RNA-Seq of Homo sapiens: hCov-19 infected patients Sputum
+- Submitted by: Hubei Provincial Center for Disease Control and Prevention
+- Sample: BetaCoV/Wuhan/HBCDC-HB-04/2019
+- Library: Name: HBCDC-HB-04/2019
           Instrument: Illumina MiSeq
           Strategy: RNA-Seq
           Source: TRANSCRIPTOMIC
