@@ -15,6 +15,7 @@ SRA accession - [SRR11454612](https://www.ncbi.nlm.nih.gov/sra/?term=SRR11454612
           Layout: PAIRED
 
 ## GALAXY tools
+https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/fasterq_dump/2.10.4+galaxy2
 
 ## Schematic execution of the study
 ## Intermediate results
