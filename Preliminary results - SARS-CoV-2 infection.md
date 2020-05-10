@@ -15,6 +15,7 @@ SRA accession - [SRR11454612](https://www.ncbi.nlm.nih.gov/sra/?term=SRR11454612
           Layout: PAIRED
 
 ## GALAXY tools
+
 [Fastq dump](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/fasterq_dump/2.10.4+galaxy2)
 
 [Fastp](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/fastp/fastp/0.20.1+galaxy0)
@@ -27,15 +28,16 @@ SRA accession - [SRR11454612](https://www.ncbi.nlm.nih.gov/sra/?term=SRR11454612
 
 [VARSCAN mpileup](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/varscan_mpileup/varscan_mpileup/2.4.3.1)
 
-Seq2HLA
+[GATK4](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/gatk4_mutect2/gatk4_mutect2/4.1.4.0+galaxy2)
 
-CustomProDB
+[Seq2HLA](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/seq2hla/seq2hla/2.2.0)
 
-IEDB MHC Binding prediction
+[CustomProDB](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/custom_pro_db/custom_pro_db/1.22.0)
 
-
+[IEDB MHC Binding prediction](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/iedb_api/iedb_api/2.15.0)
 
 ## Schematic execution of the study
+
 ## Intermediate results
 
 ## Shared GALAXY history
