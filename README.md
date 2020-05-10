@@ -3,7 +3,7 @@ Computational Prediction of Neoantigens.
 
 # Multi-media file
 
-[![Personalis Video over neoantigen prediction](https://img.youtube.com/vi/ixi30cZhfZI/0.jpg)](http://www.youtube.com/watch?ixi30cZhfZI)
+[![Personalis Video over neoantigen prediction](https://img.youtube.com/vi/ixi30cZhfZI/0.jpg)](https://www.youtube.com/watch?v=ixi30cZhfZI&t=110s)
 
 # Linked repositories
 [1] https://github.com/MathOnco/NeoPredPipe
