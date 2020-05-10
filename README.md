@@ -5,7 +5,7 @@ Computational Prediction of Neoantigens.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixi30cZhfZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+[![Personalis Video over neoantigen prediction](https://img.youtube.com/vi/ixi30cZhfZI/0.jpg)](http://www.youtube.com/watch?ixi30cZhfZI)
 
 # Linked repositories
 [1] https://github.com/MathOnco/NeoPredPipe
