@@ -25,6 +25,10 @@ VARSCAN
 
 Seq2HLA
 
+CustomProDB
+
+IEDB MHC Binding prediction
+
 
 
 ## Schematic execution of the study
