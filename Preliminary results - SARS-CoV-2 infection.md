@@ -1,6 +1,6 @@
 ## SARS-CoV-2 infected samples.
 ## RNASEQ dataset
-SRA accession - SRR11454612
+SRA accession - [SRR11454612](https://www.ncbi.nlm.nih.gov/sra/?term=SRR11454612)
 #### Metadata
 - RNA-Seq of Homo sapiens: hCov-19 infected patients Sputum
 - Submitted by: Hubei Provincial Center for Disease Control and Prevention
