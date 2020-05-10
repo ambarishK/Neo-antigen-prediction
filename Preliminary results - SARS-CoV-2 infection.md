@@ -22,7 +22,9 @@ HISAT2
 SAMTools
 
 VARSCAN
+
 Seq2HLA
+
 
 
 ## Schematic execution of the study
