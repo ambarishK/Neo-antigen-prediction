@@ -37,7 +37,7 @@ SRA accession - [SRR11454612](https://www.ncbi.nlm.nih.gov/sra/?term=SRR11454612
 [IEDB MHC Binding prediction](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/iedb_api/iedb_api/2.15.0)
 
 ## Schematic execution of the study
-[!Execution](https://github.com/ambarishK/Neo-antigen-prediction/blob/master/hlanew.jpg)
+![Execution](https://github.com/ambarishK/Neo-antigen-prediction/blob/master/hlanew.jpg)
 
 ## Intermediate results
 
