@@ -2,7 +2,7 @@
 Computational Prediction of Neoantigens.
 
 # Multi-media file
-https://www.youtube.com/watch?v=ixi30cZhfZI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixi30cZhfZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Linked repositories
 [1] https://github.com/MathOnco/NeoPredPipe
